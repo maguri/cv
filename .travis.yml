@@ -1,0 +1,22 @@
+language: go
+
+go:
+  - 1.6
+
+env:
+  global:
+    - COMMIT_AUTHOR_EMAIL: oriol.mauri@devcows.com
+
+install:
+  - go get -v github.com/spf13/hugo
+  - pip install Pygments --user
+
+script:
+  - hugo
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: bash ./deploy.sh
+  on:
+    branch: master
