@@ -6,15 +6,15 @@ Static web site deployed on Github Pages.
 
 Automatic deploy after commit and push in GitHub
 
-- 1.0 - Commit(master)
+- 1.0 - `commit`(`master`)
 - 2.0 - Travis CI
-- 2.1 - Hugo #compile
-- 2.2 - Script commit and push to gh-pages branch
-- 3.0 - GitHub Pages serve the new commit
+- 2.1 - `hugo` #compile
+- 2.2 - `deploy.sh` commit and push to `gh-pages` branch
+- 3.0 - GitHub Pages serves the new commit
 
 #### Using [Hugo](https://gohugo.io/) ####
 
-**Compile & Run the web in localhost**
+**Compile & Run the web in [localhost](http://localhost:1313)**
 ```
 $ hugo -v
 $ hugo server
