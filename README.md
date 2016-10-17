@@ -2,14 +2,17 @@
 Static web site deployed on Github Pages.
 
 **Compile & Run the web in Github Pages**
-#### Using [Travis CI](https://travis-ci.org/)
+#### Using [Travis CI](https://travis-ci.org/) ####
+
 Automatic deploy after commit and push in GitHub
->1.0 - Commit(master)
->2.0 - Travis CI
->- 2.1 - Hugo #compile
->- 2.2 - Script commit and push to gh-pages branch
->3.0 - GitHub Pages serve the new commit
-#### Using [Hugo](https://gohugo.io/)
+
+- 1.0 - Commit(master)
+- 2.0 - Travis CI
+- 2.1 - Hugo #compile
+- 2.2 - Script commit and push to gh-pages branch
+- 3.0 - GitHub Pages serve the new commit
+
+#### Using [Hugo](https://gohugo.io/) ####
 
 **Compile & Run the web in localhost**
 ```
