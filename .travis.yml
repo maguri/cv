@@ -6,6 +6,7 @@ go:
 env:
   global:
     - COMMIT_AUTHOR_EMAIL: oriol.mauri@devcows.com
+    - ENCRYPTION_LABEL: 7adb43d426f2
 
 install:
   - go get -v github.com/spf13/hugo
