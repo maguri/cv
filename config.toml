@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://maguri.github.io/cv/"
+baseurl = "https://maguri.github.io/cv/"
 languageCode = "en-us"
 title = "Oriol Mauri CV"
 theme = "hugo-orbit-theme"
@@ -221,7 +221,7 @@ disable404 = true
         level = "75%"
 
         [[params.skills.list]]
-        skill = "C, ARM & Embadded, RTS (Arduino, Raspberry Pi)"
+        skill = "C, ARM, Embadded & RTS"
         level = "80%"
 
     # Footer section
