@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://maguri.github.io/"
+baseurl = "http://maguri.github.io/cv/"
 languageCode = "en-us"
 title = "Oriol Mauri CV"
 theme = "hugo-orbit-theme"
