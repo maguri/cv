@@ -22,5 +22,5 @@ deploy:
   on:
     branch: master
 
-notifications:
-  slack: devcows:9MVUCuEaoKi83vcyflYf6GZp
+
+
