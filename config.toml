@@ -100,7 +100,7 @@ disable404 = true
 
         [[params.languages.list]]
         language = "English"
-        level = "Native"
+        level = "B2 (CEFR)"
 
         [[params.languages.list]]
         language = "Spanish"
@@ -114,6 +114,9 @@ disable404 = true
     [params.interests]
         enable = true
         title = "Interests"
+
+        [[params.interests.list]]
+        interest = "New technologies"
 
         [[params.interests.list]]
         interest = "Surf"
@@ -199,27 +202,27 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Python & Django"
-        level = "98%"
-
-        [[params.skills.list]]
-        skill = "Javascript & jQuery"
-        level = "98%"
-
-        [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
-
-        [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
+        level = "80%"
 
         [[params.skills.list]]
         skill = "Ruby on Rails"
+        level = "65%"
+
+        [[params.skills.list]]
+        skill = "Java OOP"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "Android"
+        level = "50%"
+
+        [[params.skills.list]]
+        skill = "HTML5 & CSS"
         level = "75%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
+        skill = "C, ARM & Embadded, RTS (Arduino, Raspberry Pi)"
+        level = "80%"
 
     # Footer section
 

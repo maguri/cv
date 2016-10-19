@@ -12,6 +12,10 @@ install:
   - go get -v github.com/spf13/hugo
   - pip install Pygments --user
 
+before_script:
+  - mkdir themes
+  - git clone --depth 1 https://github.com/ryanfox1985/hugo-orbit-theme.git themes/hugo-orbit-theme/
+
 script:
   - hugo
 
@@ -21,6 +25,3 @@ deploy:
   script: bash ./deploy.sh
   on:
     branch: master
-
-
-
