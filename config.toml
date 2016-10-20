@@ -24,7 +24,7 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles.css"
+    styles = "styles-2.css"
 
 # Sidebar sections
 
@@ -32,11 +32,17 @@ disable404 = true
     [params.profile]
         name = "Oriol Mauri Guiu"
         tagline = "Software Engineer"
-        avatar = "avatar1o.png"
+        avatar = "hugo-avatar.png"
 
     # Contact section
     [params.contact]
         enable = true
+
+        [[params.contact.list]]
+        class = ""
+        icon = ""
+        url = ""
+        title = "February 13, 1995"
 
         [[params.contact.list]]
         class = "email"
@@ -136,7 +142,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+        summary = "I am an enterprising, creative, different from the others and eager to fulfill my dreams and illusions. Born in a mediterranean city, Tarragona, I love the nature and the peace of the sea at the same time I adore the new technologies and frameworks that make this world easy for every body. My dream is work some day for a big company who give me the opportunity to take part of their projects to improve this world and change the people arround it. I love be friendly and get out with my friends at the weekends, and as a practitioner of Aikido I respect a lot the people and I work very well with small groups of people. I have work developing and deploing web apps with Django and Ruby on Rails following the MVC Pattern."
 
     # Experiences section
     [params.experiences]
@@ -201,28 +207,34 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
+        skill = "Java OOP"
+        level = "90%"
+
+        [[params.skills.list]]
         skill = "Python & Django"
         level = "80%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
-        level = "65%"
+        skill = "C, ARM, Embadded & RTS"
+        level = "80%"
 
         [[params.skills.list]]
-        skill = "Java OOP"
-        level = "90%"
+        skill = "Ruby on Rails"
+        level = "70%"
+
+        [[params.skills.list]]
+        skill = "React.js & Angular"
+        level = "50%"
+
 
         [[params.skills.list]]
         skill = "Android"
         level = "50%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "75%"
+        skill = "Scala, Elixir & Golang"
+        level = "25%"
 
-        [[params.skills.list]]
-        skill = "C, ARM, Embadded & RTS"
-        level = "80%"
 
     # Footer section
 
