@@ -1,4 +1,4 @@
-# Oriol Mauri Guiu (CV)
+# Oriol Mauri Guiu (CV) [![Build Status](https://travis-ci.org/maguri/cv.svg?branch=master)](https://travis-ci.org/maguri/cv)
 Static web site deployed on Github Pages.
 
 **Compile & Run the web in Github Pages**
