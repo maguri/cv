@@ -18,7 +18,7 @@ Automatic deploy after commit and push in GitHub
 
 #### Using [Hugo](https://gohugo.io/) ####
 
-**Compile & Run the web in [localhost](http://localhost:1313)**
+**Compile & Run the web in [localhost:1313](http://localhost:1313)**
 ```
 $ hugo -v
 $ hugo server
@@ -37,3 +37,6 @@ Serving pages from memory
 Web Server is available at http://localhost:1313/url/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
+### Licence ###
+MIT License Copyright (c) 2016 Oriol Mauri Guiu [@maguri](https://github.com/maguri)
+
