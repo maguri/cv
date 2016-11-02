@@ -153,20 +153,20 @@ disable404 = true
         [[params.jobs.list]]
         position = "College Internship"
         dates = "2015 - Present"
-        company = "Devcows, Spain, Tarragona"
-        details = "**Web Developer**: ..."
+        company = "DevCows, Spain, Catalonia Tarragona"
+        details = "**Web Developer** in [DevCows](http://www.devcows.com/): Web app developer of the back and front end of a [Django](https://www.djangoproject.com/) web app for a private company. I have learn how to use [Vagrant](https://www.vagrantup.com/) and [Docker](https://www.docker.com/). Working in a small group with continuous integration using [GitLab](https://gitlab.com) and [Heroku](https://www.heroku.com) for the test environment and deploy. Getting new knowledges about [Yeoman](yeoman.io), [Coveralls](https://coveralls.io/), [Semaphore](https://semaphoreci.com), [Trello](https://trello.com/) and more things. My bosses and partners were [Adrian Moreno](https://www.linkedin.com/in/adrianmorenomartinez) and [Guillermo Ibarra](https://www.linkedin.com/in/guillermoguerreroibarra), software engineers, great web developers and teachers. "
 
         [[params.jobs.list]]
         position = "Student"
         dates = "2013 - 2017"
-        company = "URV, Tarragona"
-        details = "Software engineers are involved in all aspects of software creation, from writing code to debugging programs to overseeing the launch of new software. They often start out writing code but eventually advance to senior positions, working as software architects or project managers. In a software engineer career, it’s essential to keep up with the latest advancements, because technology is constantly evolving. Having strong interpersonal and management skills is also crucial since software engineers often collaborate with marketing, manufacturing, and design professionals in creating new software."
+        company = "Rovira i Virgili University, Spain, Catalonia, Tarragona"
+        details = "**Student** in [URV](http://urv.cat/) - [ETSE](http://etse.urv.cat/) - [DEIM](http://deim.urv.cat/) as a Software engineer. We are involved in all aspects of software creation, from writing code to debugging programs to overseeing the launch of new software. They often start out writing code but eventually advance to senior positions, working as software architects or project managers. In a software engineer career, it’s essential to keep up with the latest advancements, because technology is constantly evolving. Having strong interpersonal and management skills is also crucial since software engineers often collaborate with marketing, manufacturing, and design professionals in creating new software."
 
         [[params.jobs.list]]
         position = "UI/IO Developer"
         dates = "2014 - 2015"
         company = "Club Natació Tarraco, Tarragona"
-        details = "**Software Engineer**: We deploy an input and output system to contoll the access of the customers in the swimming club."
+        details = "**Software Engineer** in [Club Natació Tarraco](www.cntarraco.cat/): We deploy an input and output system to contoll the access of the customers in the swimming club."
 
     # Projects section
     [params.projects]
