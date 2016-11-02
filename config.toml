@@ -41,7 +41,7 @@ disable404 = true
         [[params.contact.list]]
         class = ""
         icon = ""
-        url = ""
+        url = "http://www.onthisday.com/date/1995/february/13"
         title = "February 13, 1995"
 
         [[params.contact.list]]
@@ -66,19 +66,19 @@ disable404 = true
         class = "linkedin"
         icon = "fa-linkedin"
         url = "    https://es.linkedin.com/in/oriol-mauri-193a648b"
-        title = "linkedin.com/in/oriol-mauri"
+        title = "Oriol Mauri Guiu"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
         url = "//github.com/maguri"
-        title = "github.com/maguri"
+        title = "@maguri"
 
         [[params.contact.list]]
         class = "twitter"
         icon = "fa-twitter"
-        url = "//twitter.com/username"
-        title = "@twittername"
+        url = "//twitter.com/oriolmauriguiu"
+        title = "@oriolmauriguiu"
 
     # Education section
     [params.education]
@@ -151,54 +151,54 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
+        position = "College Internship"
         dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        company = "Devcows, Spain, Tarragona"
+        details = "**Web Developer**: ..."
 
         [[params.jobs.list]]
-        position = "Senior Software Engineer"
+        position = "Student"
+        dates = "2013 - 2017"
+        company = "URV, Tarragona"
+        details = "Software engineers are involved in all aspects of software creation, from writing code to debugging programs to overseeing the launch of new software. They often start out writing code but eventually advance to senior positions, working as software architects or project managers. In a software engineer career, it’s essential to keep up with the latest advancements, because technology is constantly evolving. Having strong interpersonal and management skills is also crucial since software engineers often collaborate with marketing, manufacturing, and design professionals in creating new software."
+
+        [[params.jobs.list]]
+        position = "UI/IO Developer"
         dates = "2014 - 2015"
-        company = "Google, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
-
-        [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        company = "Club Natació Tarraco, Tarragona"
+        details = "**Software Engineer**: We deploy an input and output system to contoll the access of the customers in the swimming club."
 
     # Projects section
     [params.projects]
         enable = true
         icon = "fa-archive"
         title = "Projects"
-        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+        intro = "**Projects**: I have participated in a lot of projects in my degree as student like develop an Operative System for Nintendo DS, Develop a game like The 'Candy Crash' also for Nintendo DS, or programme the game of the tron with Python for the linux shell, programme 'sockets' in C, Design, make and manage a local network or deploy an own web app with Java, Ruby on Rails or Django."
 
         [[params.projects.list]]
-        title = "Hugrid"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+        title = "Shining – Intelligent Street Lighting"
+        url = "https://bitbucket.org/engineer_coders/distributed-systems"
+        tagline = "Provate project that implements a distributed system that simulate a smart city light system and that use [PyActive](https://github.com/cloudspaces/pyactive) and [Redis](http://redis.io/)."
 
         [[params.projects.list]]
-        title = "Simple FAQ Theme for Hugo"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
+        title = "Simple CV with Hugo"
+        url = "https://github.com/maguri/cv"
+        tagline = "Simple Curriculum Vitae with a Theme for Hugo. Deployed on GitHub Pages, Tested and monitorized by [Travis CI](https://travis-ci.org/maguri/cv)"
 
         [[params.projects.list]]
-        title = "Hugo Identity"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
+        title = "Dashboard Tap"
+        url = "https://github.com/maguri/dashboard-tap"
+        tagline = "(in progress). This is a project to customize new tap on a browser of any developer or user"
 
         [[params.projects.list]]
-        title = "Orbit"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
+        title = "Go Share your Giphy"
+        url = "#"
+        tagline = "(in progress). This is a web app developed with Go lang. This is a connection between Giphy API and Facebook API to share automatically giphies on your facebook page"
 
         [[params.projects.list]]
-        title = "Me"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
+        title = "The internet of Feed"
+        url = "#"
+        tagline = "(in progress). This is a web service connected with microservices who give to the system all the necessary information to know the percentages of the nutrients of a person and know everything about what he should do and he should not eat or do."
 
     # Skills section
     [params.skills]
@@ -211,29 +211,28 @@ disable404 = true
         level = "90%"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "80%"
+        skill = "C, ARM, Embadded & RTS"
+        level = "75%"
 
         [[params.skills.list]]
-        skill = "C, ARM, Embadded & RTS"
-        level = "80%"
+        skill = "Python & Django"
+        level = "75%"
 
         [[params.skills.list]]
         skill = "Ruby on Rails"
-        level = "70%"
-
-        [[params.skills.list]]
-        skill = "React.js & Angular"
-        level = "50%"
-
+        level = "55%"
 
         [[params.skills.list]]
         skill = "Android"
-        level = "50%"
+        level = "40%"
+
+        [[params.skills.list]]
+        skill = "React.js & Angular"
+        level = "10%"
 
         [[params.skills.list]]
         skill = "Scala, Elixir & Golang"
-        level = "25%"
+        level = "10%"
 
 
     # Footer section
