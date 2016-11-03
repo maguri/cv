@@ -178,7 +178,7 @@ disable404 = true
         [[params.projects.list]]
         title = "Shining – Intelligent Street Lighting"
         url = "https://bitbucket.org/engineer_coders/distributed-systems"
-        tagline = "Provate project that implements a distributed system that simulate a smart city light system and that use [PyActive](https://github.com/cloudspaces/pyactive) and [Redis](http://redis.io/)."
+        tagline = "Private project that implements a distributed system that simulate a smart city light system and that use [PyActive](https://github.com/cloudspaces/pyactive) and [Redis](http://redis.io/)."
 
         [[params.projects.list]]
         title = "Simple CV with Hugo"
