@@ -65,7 +65,7 @@ disable404 = true
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "    https://es.linkedin.com/in/oriol-mauri-193a648b"
+        url = "https://es.linkedin.com/in/oriol-mauri-193a648b"
         title = "Oriol Mauri Guiu"
 
         [[params.contact.list]]
