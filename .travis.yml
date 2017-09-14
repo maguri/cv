@@ -13,9 +13,13 @@ env:
     - COMMIT_AUTHOR_EMAIL: oriol.mauri@devcows.com
     - ENCRYPTION_LABEL: 7adb43d426f2
 
+before_install:
+  - export GOPATH=$HOME/go
+  - export PATH=$PATH:$GOPATH/bin
+
 install:
-  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.deb
-  - sudo dpkg -i /tmp/hugo.deb
+  - wget -O /tmp/hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.20.7/hugo_0.20.7_Linux-ARM.tar.gz
+  - tar xvzf /tmp/hugo.tar.gz
 
 before_script:
   - mkdir themes
