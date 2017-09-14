@@ -109,13 +109,16 @@ disable404 = true
         level = "B2 (CEFR)"
 
         [[params.languages.list]]
-        language = "Spanish"
-        level = "Native"
+        language = "Español"
+        level = "Nativo"
 
         [[params.languages.list]]
-        language = "Catalan"
-        level = "Native"
+        language = "Català"
+        level = "Natiu"
 
+        [[params.languages.list]]
+        language = "Français"
+        level = "Apprentissage"
     # Interests section
     [params.interests]
         enable = true
@@ -142,7 +145,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I am an enterprising, creative, different from the others and eager to fulfill my dreams and illusions. Born in a mediterranean city, Tarragona, I love the nature and the peace of the sea at the same time I adore the new technologies and frameworks that make this world easy for every body. My dream is work some day for a big company who give me the opportunity to take part of their projects to improve this world and change the people arround it. I love be friendly and get out with my friends at the weekends, and as a practitioner of Aikido I respect a lot the people and I work very well with small groups of people. I have work developing and deploing web apps with Django and Ruby on Rails following the MVC Pattern."
+        summary = "Enterprising and creative, different from the others and eager to fulfill my dreams and illusions. Born in a Mediterranean city, Tarragona, I love the nature and the peace of the sea at the same time I adore the new technologies and frameworks that make this world easy for every body. My dream is work some day for a big company who give me the opportunity to take part of their projects to improve this world and change the people arround it. I love be friendly and get out with my friends at the weekends, and as a practitioner of Aikido I respect a lot the people and I work very well with small groups of people. I have work developing and deploing web apps with Django and Ruby on Rails following the MVC Pattern."
 
     # Experiences section
     [params.experiences]
@@ -152,21 +155,21 @@ disable404 = true
 
         [[params.jobs.list]]
         position = "College Internship"
-        dates = "2015 - Present"
+        dates = "2015 - 2017"
         company = "DevCows, Spain, Catalonia Tarragona"
-        details = "**Web Developer** in [DevCows](http://www.devcows.com/): Web app developer of the back and front end of a [Django](https://www.djangoproject.com/) web app for a private company. I have learn how to use [Vagrant](https://www.vagrantup.com/) and [Docker](https://www.docker.com/). Working in a small group with continuous integration using [GitLab](https://gitlab.com) and [Heroku](https://www.heroku.com) for the test environment and deploy. Getting new knowledges about [Yeoman](yeoman.io), [Coveralls](https://coveralls.io/), [Semaphore](https://semaphoreci.com), [Trello](https://trello.com/) and more things. My bosses and partners were [Adrian Moreno](https://www.linkedin.com/in/adrianmorenomartinez) and [Guillermo Ibarra](https://www.linkedin.com/in/guillermoguerreroibarra), software engineers, great web developers and teachers. "
+        details = "**Back-end web Developer** at [DevCows](http://www.devcows.com/): Back and Front end web developer working on a [Django](https://www.djangoproject.com/) web app for a private company. I got knowledges about [Vagrant](https://www.vagrantup.com/) and [Docker](https://www.docker.com/). Working in a small group using continuous integration (CI) and Agile (Scrum) methodologies. Using tools like [GitLab](https://gitlab.com) and [Heroku](https://www.heroku.com) for the test environment and deploy. Getting new knowledges about [Yeoman](yeoman.io), [Coveralls](https://coveralls.io/), [Semaphore](https://semaphoreci.com), [Trello](https://trello.com/) and more things. My bosses and partners were [Adrian Moreno](https://www.linkedin.com/in/adrianmorenomartinez) and [Guillermo Ibarra](https://www.linkedin.com/in/guillermoguerreroibarra), software engineers, great web developers and teachers."
 
         [[params.jobs.list]]
         position = "Student"
         dates = "2013 - 2017"
         company = "Rovira i Virgili University, Spain, Catalonia, Tarragona"
-        details = "**Student** in [URV](http://urv.cat/) - [ETSE](http://etse.urv.cat/) - [DEIM](http://deim.urv.cat/) as a Software engineer. We are involved in all aspects of software creation, from writing code to debugging programs to overseeing the launch of new software. They often start out writing code but eventually advance to senior positions, working as software architects or project managers. In a software engineer career, it’s essential to keep up with the latest advancements, because technology is constantly evolving. Having strong interpersonal and management skills is also crucial since software engineers often collaborate with marketing, manufacturing, and design professionals in creating new software."
+        details = "**Student** at [URV](http://urv.cat/) - [ETSE](http://etse.urv.cat/) - [DEIM](http://deim.urv.cat/) as a Software engineer. We are involved in all aspects of software creation, from writing code to debugging programs to overseeing the launch of new software. They often start out writing code but eventually advance to senior positions, working as software architects or project managers. In a software engineer career, it’s essential to keep up with the latest advancements, because technology is constantly evolving. Having strong interpersonal and management skills is also crucial since software engineers often collaborate with marketing, manufacturing, and design professionals in creating new software."
 
         [[params.jobs.list]]
-        position = "UI/IO Developer"
+        position = "UI/IO System"
         dates = "2014 - 2015"
         company = "Club Natació Tarraco, Tarragona"
-        details = "**Software Engineer** in [Club Natació Tarraco](www.cntarraco.cat/): We deploy an input and output system to contoll the access of the customers in the swimming club."
+        details = "**SysAdmin** at [Club Natació Tarraco](www.cntarraco.cat/): We deploy an input and output system to contoll the access of the customers in the swimming club."
 
     # Projects section
     [params.projects]
@@ -174,6 +177,16 @@ disable404 = true
         icon = "fa-archive"
         title = "Projects"
         intro = "**Projects**: I have participated in a lot of projects in my degree as student like develop an Operative System for Nintendo DS, Develop a game like The 'Candy Crash' also for Nintendo DS, or programme the game of the tron with Python for the linux shell, programme 'sockets' in C, Design, make and manage a local network or deploy an own web app with Java, Ruby on Rails or Django."
+
+        [[params.projects.list]]
+        title = "Final Progect Degree – API Service (Car-Chat)"
+        url = "https://github.com/maguri/car-chat"
+        tagline = "Public Final Project Degree. Car-Chat Back-end. Scalable and efficient api service implemented with Ruby on Rails for a Car Sharing App"
+
+        [[params.projects.list]]
+        title = "Final Progect Degree – UI Angular Web (Car-Chat)"
+        url = "https://github.com/maguri/user-car-chat"
+        tagline = "Public Final Project Degree. Car-Chat Front-end. Dynamic user interface implemented with Angular 2.0 for a Car Sharing App"
 
         [[params.projects.list]]
         title = "Shining – Intelligent Street Lighting"
@@ -207,32 +220,32 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Java OOP"
+        skill = "Java and OOP"
         level = "90%"
 
         [[params.skills.list]]
-        skill = "C, ARM, Embadded & RTS"
-        level = "75%"
+        skill = "Python (Django)"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "75%"
+        skill = "Ruby (Ruby on Rails)"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
-        level = "55%"
+        skill = "C, ARM, Embadded and RTS"
+        level = "75%"
 
         [[params.skills.list]]
         skill = "Android"
-        level = "40%"
+        level = "70%"
 
         [[params.skills.list]]
-        skill = "React.js & Angular"
-        level = "10%"
+        skill = "React.js and Angular 2.0"
+        level = "60%"
 
         [[params.skills.list]]
-        skill = "Scala, Elixir & Golang"
-        level = "10%"
+        skill = "Scala, Elixir and Golang"
+        level = "25%"
 
 
     # Footer section
