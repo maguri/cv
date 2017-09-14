@@ -122,7 +122,7 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "New technologies"
+        interest = "Cloud technologies"
 
         [[params.interests.list]]
         interest = "Surf"
