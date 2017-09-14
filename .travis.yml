@@ -1,7 +1,12 @@
 language: go
 
 go:
-  - 1.6
+  - 1.7.1
+
+addons:
+  apt:
+    packages:
+      - python-pygments
 
 env:
   global:
@@ -9,8 +14,8 @@ env:
     - ENCRYPTION_LABEL: 7adb43d426f2
 
 install:
-  - go get -v github.com/spf13/hugo
-  - pip install Pygments --user
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
 
 before_script:
   - mkdir themes
