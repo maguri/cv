@@ -154,6 +154,12 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
+        position = "Ruby Developer"
+        dates = "2015 - 2017"
+        company = "Crisalix, Spain, Catalonia, Barcelona"
+        details = "Junior **Back-end web Developer** at [Crisalix](https://www.crisalix.com/) with Ruby on Rails as the main technology. Crisalix is the leader in web-based 3D simulation for plastic surgery and aesthetic procedures. The company is a spin-off from the fastest growing life science cluster in the world, the Swiss Federal Institute of Technology (EPFL), Switzerland, and the Institute of Surgical Technology and Biomechanics (ISTB) of the University of Bern."
+
+        [[params.jobs.list]]
         position = "College Internship"
         dates = "2015 - 2017"
         company = "DevCows, Spain, Catalonia Tarragona"
@@ -233,7 +239,7 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "C, ARM, Embadded and RTS"
-        level = "75%"
+        level = "70%"
 
         [[params.skills.list]]
         skill = "Android"
