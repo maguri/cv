@@ -18,16 +18,18 @@ before_install:
   - export PATH=$PATH:$GOPATH/bin
 
 install:
-  - go get github.com/kardianos/govendor
-  - govendor get github.com/gohugoio/hugo
-  - go install github.com/gohugoio/hugo
+  - go get github.com/magefile/mage
+  - go get -d github.com/gohugoio/hugo
+  - cd $HOME/go/src/github.com/gohugoio/hugo
+  - mage vendor
+  - mage install
 
 before_script:
-  - mkdir themes
-  - git clone --depth 1 https://github.com/aerohub/hugo-orbit-theme.git themes/hugo-orbit-theme/
+  - mkdir $TRAVIS_BUILD_DIR/themes
+  - git clone --depth 1 https://github.com/aerohub/hugo-orbit-theme.git $TRAVIS_BUILD_DIR/themes/hugo-orbit-theme/
 
 script:
-  - hugo
+  - hugo -s $TRAVIS_BUILD_DIR
 
 deploy:
   provider: pages
