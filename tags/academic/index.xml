@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Oriol Mauri CV</title>
+    <link>https://maguri.github.io/cv/tags/academic/</link>
+    <description>Recent content in Academic on Oriol Mauri CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://maguri.github.io/cv/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with the Academic theme for Hugo</title>
+      <link>https://maguri.github.io/cv/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://maguri.github.io/cv/post/getting-started/</guid>
+      <description>&lt;p&gt;The Academic theme enables you to easily create a personal academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designed for academic staff, students, or general personal use&lt;/li&gt;
+&lt;li&gt;Includes Biography, Publications, Projects, News/Blog, Teaching, and Contact sections&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Academic linking (Scholar etc.), Google Analytics, and Disqus comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Easy to customize
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Install &lt;a href=&#34;https://gohugo.io/overview/installing/&#34;&gt;Hugo&lt;/a&gt; and create a new website:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Managing content</title>
+      <link>https://maguri.github.io/cv/post/managing-content/</link>
+      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://maguri.github.io/cv/post/managing-content/</guid>
+      <description>This is a brief guide to managing content with the Academic theme. Content can include homepage sections, publications, projects, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about writing content with Markdown, LaTeX, and Shortcodes.
+To enable LaTeX math rendering for a page, you should include math = true in the page&amp;rsquo;s +++ preamble, as demonstrated in the included example site.</description>
+    </item>
+    
+  </channel>
+</rss>

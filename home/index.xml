@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Oriol Mauri CV</title>
+    <link>https://maguri.github.io/cv/home/</link>
+    <description>Recent content in Homes on Oriol Mauri CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://maguri.github.io/cv/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://maguri.github.io/cv/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://maguri.github.io/cv/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://maguri.github.io/cv/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://maguri.github.io/cv/home/about/</guid>
+      <description>Biography I am an enterprising and creative,different from the others and eager to fulfill my dreams and illusions. Born in a mediterranean city, Tarragona, I love the nature and the peace of the sea at the same time I adore the new technologies and frameworks that make this world easy for every body. My dream is work some day for a big company who give me the opportunity to take part of their projects to improve this world and change the people arround it.</description>
+    </item>
+    
+  </channel>
+</rss>
