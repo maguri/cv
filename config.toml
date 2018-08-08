@@ -41,20 +41,8 @@ disable404 = true
         [[params.contact.list]]
         class = ""
         icon = ""
-        url = "http://www.onthisday.com/date/1995/february/13"
+        url = "#"
         title = "February 13, 1995"
-
-        [[params.contact.list]]
-        class = "email"
-        icon = "fa-envelope"
-        url = "mailto: oriol.mauri@devcows.com"
-        title = "oriol.mauri@devcows.com"
-
-        [[params.contact.list]]
-        class = "phone"
-        icon = "fa-phone"
-        url = "tel:+34671097625"
-        title = "+(34) 671 09 76 25"
 
         # [[params.contact.list]]
         # class = "website"
