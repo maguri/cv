@@ -70,17 +70,15 @@ disable404 = true
 
     # Education section
     [params.education]
-        enable = true
-        title = "Education"
-        [[params.education.list]]
-        degree = "High School Diploma"
-        college = "Lestonnac L'Ensenyança"
-        dates = "2007 - 2013"
-
         [[params.education.list]]
         degree = "Software Engineer"
         college = "University Rovira i Virgili"
         dates = "2013 - 2017"
+
+        [[params.education.list]]
+        degree = "Certified Jenkins Engineer (CJE)"
+        college = "Linux Academy"
+        dates = "Dec. 2017"
 
         [[params.education.list]]
         degree = "English B2 Certificate"
@@ -113,7 +111,7 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Cloud technologies"
+        interest = "Cloud & Web technologies"
 
         [[params.interests.list]]
         interest = "Surf"
@@ -122,7 +120,10 @@ disable404 = true
         interest = "Aikido"
 
         [[params.interests.list]]
-        interest = "Human towers"
+        interest = "IoT"
+
+        [[params.interests.list]]
+        interest = "Farming"
 
 # Main body sections
 
@@ -142,8 +143,14 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
+        position = "CTO - Software Engineer"
+        dates = "2019 - Present"
+        company = "BMauri & Robitec, Spain, Catalonia, Tarragona"
+        details = "**Software Engineer (CTO)** at [BMauri](https://www.bmauri.com/). Member of a little team and growing up, developing and Designing and manteining all sort of applications for the weight Industry. Working with back-end services with AWS, S3, EC2, External and Internal API calls, Queues System... Investing and Devoloping new projects into the IoT area."
+
+        [[params.jobs.list]]
         position = "Ruby Developer"
-        dates = "2017 - 2018"
+        dates = "2017 - 2019"
         company = "Crisalix, Spain, Catalonia, Barcelona"
         details = "**Software Developer** at [Crisalix](https://www.crisalix.com/) with *Ruby on Rails*. Managing back-end services with AWS, S3, EC2, External and Internal API calls, Queues System... Using SCRUM and CI to develop a scalable, DRY, rigorous code with regular refactoring. Crisalix is the leader in web-based 3D simulation for plastic surgery and aesthetic procedures. The company is a spin-off from the fastest growing life science cluster in the world, the Swiss Federal Institute of Technology (EPFL), Switzerland, and the Institute of Surgical Technology and Biomechanics (ISTB) of the University of Bern."
 
@@ -171,6 +178,16 @@ disable404 = true
         icon = "fa-archive"
         title = "Projects"
         intro = "**Projects**: I have participated in a lot of projects in my degree as student like develop an Operative System for Nintendo DS, Develop a game like The 'Candy Crash' also for Nintendo DS, or programme the game of the tron with Python for the linux shell, programme 'sockets' in C, Design, make and manage a local network or deploy an own web app with Java, Ruby on Rails or Django."
+
+        [[params.projects.list]]
+        title = "Ralix JS"
+        url = "https://github.com/ralixjs"
+        tagline = "Microframework for building and organizing Rails front-ends"
+
+        [[params.projects.list]]
+        title = "ACADIR website"
+        url = "http://www.aikidotarragona.org/"
+        tagline = "Associació Catalana d'Aikido Dento Iwama Ryu"
 
         [[params.projects.list]]
         title = "Final Progect Degree – API Service (Car-Chat)"
@@ -214,32 +231,32 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Java and OOP"
-        level = "90%"
+        skill = "Ruby"
+        level = "100%"
 
         [[params.skills.list]]
         skill = "Python (Django)"
         level = "90%"
 
         [[params.skills.list]]
-        skill = "Ruby (Ruby on Rails)"
-        level = "90%"
+        skill = "Cloud Tech. Docker, AWS"
+        level = "75%"
 
         [[params.skills.list]]
-        skill = "C, ARM, Embadded and RTS"
-        level = "70%"
-
-        [[params.skills.list]]
-        skill = "Android"
-        level = "70%"
-
-        [[params.skills.list]]
-        skill = "React.js and Angular 2.0"
+        skill = "C, ARM, Arduino, STM32"
         level = "60%"
 
         [[params.skills.list]]
+        skill = "Android"
+        level = "50%"
+
+        [[params.skills.list]]
+        skill = "React.js and Angular 2.0"
+        level = "40%"
+
+        [[params.skills.list]]
         skill = "Scala, Elixir and Golang"
-        level = "25%"
+        level = "20%"
 
 
     # Footer section
