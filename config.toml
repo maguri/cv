@@ -14,7 +14,7 @@ disable404 = true
 [params]
 
 # Meta
-    description = "Hugo Responsive Resume/CV Theme for Developers"
+    description = "Test deploy CV"
     author = "Oriol Mauri Guiu"
 
 # Theme styles
