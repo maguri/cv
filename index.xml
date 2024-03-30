@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oriol Mauri CV</title>
@@ -6,11 +6,7 @@
     <description>Recent content on Oriol Mauri CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://maguri.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://maguri.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://maguri.github.io/cv/home/contact/</link>
@@ -26,7 +22,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://maguri.github.io/cv/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://maguri.github.io/cv/project/example-external-project/</guid>
-      <description></description>
+      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
     </item>
     
     <item>
@@ -45,9 +41,7 @@
       
       <guid>https://maguri.github.io/cv/post/getting-started/</guid>
       <description>&lt;p&gt;The Academic theme enables you to easily create a personal academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
-
 &lt;p&gt;Key features:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Designed for academic staff, students, or general personal use&lt;/li&gt;
 &lt;li&gt;Includes Biography, Publications, Projects, News/Blog, Teaching, and Contact sections&lt;/li&gt;
@@ -55,14 +49,8 @@
 &lt;li&gt;Academic linking (Scholar etc.), Google Analytics, and Disqus comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Easy to customize
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Install &lt;a href=&#34;https://gohugo.io/overview/installing/&#34;&gt;Hugo&lt;/a&gt; and create a new website:&lt;/p&gt;</description>
+&lt;li&gt;Easy to customize&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>

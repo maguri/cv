@@ -1,108 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://maguri.github.io/cv/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maguri.github.io/cv/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maguri.github.io/cv/project/example-external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/post/getting-started/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/post/managing-content/</loc>
-    <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/post/writing-markdown-latex/</loc>
-    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/publication/person-re-identification/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/publication/clothing-search/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/tags/academic/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/home/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/tags/hugo/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://maguri.github.io/cv/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/post/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://maguri.github.io/cv/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maguri.github.io/cv/publication/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://maguri.github.io/cv/tags/academic/</loc>
+    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/post/getting-started/</loc>
+    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/tags/hugo/</loc>
+    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/post/</loc>
+    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://maguri.github.io/cv/tags/</loc>
     <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://maguri.github.io/cv/post/managing-content/</loc>
+    <lastmod>2016-04-20T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/post/writing-markdown-latex/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/publication/person-re-identification/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/publication/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/publication/clothing-search/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maguri.github.io/cv/categories/</loc>
   </url>
-  
 </urlset>
